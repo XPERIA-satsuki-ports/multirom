@@ -1,6 +1,7 @@
-[submodule "kexec-tools"]
-	path = kexec-tools
-	url = https://github.com/Tasssadar/kexec-tools
 [submodule "adbd"]
 	path = adbd
 	url = https://github.com/Xperia-Z5P-RR/multirom_adbd
+[submodule "kexec-tools"]
+	path = kexec-tools
+	url = https://github.com/multirom-nexus6p/kexec-tools
+	branch = arm64
